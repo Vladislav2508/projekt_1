@@ -10,6 +10,14 @@ header{
     text-align: center;
 }
 
+nav a{
+    color: white;
+    text-align: center;
+    padding: 20 px;
+    text-decoration: none;
+    font-size: 18px;
+}
+
 main{
     background:white;
     margin-top: 10px;
@@ -19,3 +27,4 @@ main{
     border-radius: 10px;
     width: 80%;
 }
+
