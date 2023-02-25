@@ -28,3 +28,19 @@ main{
     width: 80%;
 }
 
+main li {
+    line-height: 1.5;
+}
+
+main p {
+    line-height: 1.5;
+}
+
+main iframe {
+    width: 100%;
+}
+video {
+    width: 1200px;
+    max-width: 90%;
+    margin-left: auto;
+}
